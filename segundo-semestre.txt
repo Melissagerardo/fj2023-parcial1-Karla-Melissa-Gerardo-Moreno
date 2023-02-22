@@ -1,0 +1,6 @@
+Fundamentos de economia
+Paradigmas de programacion
+Costos
+Estructuras de datos
+Herramientas graficas 
+Matematicas II
